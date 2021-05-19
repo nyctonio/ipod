@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ipod/static/css/main.2b0c91fb.chunk.css",
+    "main.js": "/ipod/static/js/main.acdb3518.chunk.js",
+    "main.js.map": "/ipod/static/js/main.acdb3518.chunk.js.map",
+    "runtime-main.js": "/ipod/static/js/runtime-main.59161aa3.js",
+    "runtime-main.js.map": "/ipod/static/js/runtime-main.59161aa3.js.map",
+    "static/js/2.c13b7da9.chunk.js": "/ipod/static/js/2.c13b7da9.chunk.js",
+    "static/js/2.c13b7da9.chunk.js.map": "/ipod/static/js/2.c13b7da9.chunk.js.map",
+    "index.html": "/ipod/index.html",
+    "precache-manifest.52464a5e158642398e44956b5a5d87d1.js": "/ipod/precache-manifest.52464a5e158642398e44956b5a5d87d1.js",
+    "service-worker.js": "/ipod/service-worker.js",
+    "static/css/main.2b0c91fb.chunk.css.map": "/ipod/static/css/main.2b0c91fb.chunk.css.map",
+    "static/js/2.c13b7da9.chunk.js.LICENSE.txt": "/ipod/static/js/2.c13b7da9.chunk.js.LICENSE.txt",
+    "static/media/AudioTapes.png": "/ipod/static/media/AudioTapes.092c7d83.png",
+    "static/media/BlueCubes.png": "/ipod/static/media/BlueCubes.a4aaa9f2.png",
+    "static/media/BlueJelly.png": "/ipod/static/media/BlueJelly.5bb3fcdf.png",
+    "static/media/game.jpg": "/ipod/static/media/game.941e51f3.jpg",
+    "static/media/pic1.png": "/ipod/static/media/pic1.7cf5bdd0.png",
+    "static/media/pic2.png": "/ipod/static/media/pic2.474c759b.png",
+    "static/media/pic3.png": "/ipod/static/media/pic3.af3bd9a6.png",
+    "static/media/pic4.png": "/ipod/static/media/pic4.9e14b27e.png",
+    "static/media/pic5.png": "/ipod/static/media/pic5.9bf4a79a.png",
+    "static/media/settings.png": "/ipod/static/media/settings.994f8bd3.png",
+    "static/media/song1.mp3": "/ipod/static/media/song1.b3aa510a.mp3",
+    "static/media/song2.mp3": "/ipod/static/media/song2.b2615f33.mp3",
+    "static/media/song3.mp3": "/ipod/static/media/song3.2d7b0a24.mp3",
+    "static/media/song4.mp3": "/ipod/static/media/song4.d2fc5263.mp3",
+    "static/media/song5.mp3": "/ipod/static/media/song5.4a46b26f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59161aa3.js",
+    "static/js/2.c13b7da9.chunk.js",
+    "static/css/main.2b0c91fb.chunk.css",
+    "static/js/main.acdb3518.chunk.js"
+  ]
+}
