@@ -1,1 +1,1 @@
-# Ipod Classic A clone of Ipod made Using React
+# A clone of Ipod Classic made Using React
