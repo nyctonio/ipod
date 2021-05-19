@@ -2,7 +2,7 @@
 
 [View Deployment](https://nyctonio.github.io/ipod/)
 
-<img src="https://user-images.githubusercontent.com/79045059/118838934-b6ddac80-b8e3-11eb-9707-6028eb23c963.png" width=100 />
+<img src="https://user-images.githubusercontent.com/79045059/118838934-b6ddac80-b8e3-11eb-9707-6028eb23c963.png" width=400 />
 
 ![image](https://user-images.githubusercontent.com/79045059/118839115-de347980-b8e3-11eb-8dc3-43313c59c046.png)
 
